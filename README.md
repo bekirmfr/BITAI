@@ -1,0 +1,2 @@
+# BITAI
+Decentralized AI Project
